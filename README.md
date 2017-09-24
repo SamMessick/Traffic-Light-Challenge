@@ -17,7 +17,8 @@
 	name, reduces 3 "next-states" and 3 light outputs<br>
 	using a next-state truth table and 6 Karnaugh maps.<br>
 	Transistor count is then determined using traditional<br>
-	CMOS logic gates (NOT, AND, NAND, and NOR).<br>
+	CMOS logic gates (NOT, AND, NAND, and NOR).
+<p>
 	<i>If you have any suggestions</i> on how to<br>
 	or simplify this finite state machine any <br>
 	further or have another method of implementing <br>
