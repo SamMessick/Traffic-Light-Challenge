@@ -19,5 +19,5 @@
 	traffic light logic, submit a pull request. 
 </p>
 <p>
-	<u>Please include any relevant work with your schematic.</u> 
+	<ins>Please include any relevant work with your schematic.</ins> 
 </p>
