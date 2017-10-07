@@ -1,3 +1,0 @@
-Implement circuit in Verilog HDL
-Implement circuit using multiplexor(s)
-Assess alternative storage devices to D flip-flops
