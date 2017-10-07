@@ -21,3 +21,14 @@
 <p>
 	<ins>Please include any relevant work with your schematic.</ins> 
 </p>
+<h4>Update 10/7/2017</h4>
+<p>The original switching logic could have been further<br>
+   minimized with a completely NOR-NOR implementation of each<br>
+   output and next state. In addition, state changes required<br>
+   more than one bit to change at a time. When implemented, <br>
+   the circuit functioned as expected (followed the state diagram)<br>
+   but did so one state change in advance of the expected<br>
+   state. This error is resolved in my second implementation, <br>
+   Updated-CMOS-Switching-Logic.jpg. The updated circuit <br>
+   is featured at <a href="http://tinyurl.com/y8h3a9r5">this link</a>.
+</p>
