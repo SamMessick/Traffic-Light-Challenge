@@ -41,7 +41,7 @@
 <h4>Update 10/7/2017</h4>
 <p>The second switching logic could have been further<br>
    minimized by matching the states to the desired outputs.<br>
-   When implemented, the circuit functioned as expected 
-   (followed the finalstate diagram). The updated circuit <br>
+   When implemented, the circuit functioned as expected <br>
+   (followed the final state diagram). The updated circuit <br>
    is featured at <a href="http://tinyurl.com/ybppz98f">this link</a>.
 </p>
