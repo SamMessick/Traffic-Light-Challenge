@@ -36,7 +36,7 @@
    but did so one state change in advance of the expected<br>
    state. This error is resolved in my second implementation, <br>
    Updated-CMOS-Switching-Logic.jpg. The updated circuit <br>
-   is featured at <a href="http://tinyurl.com/y8h3a9r5">this link</a>.
+   is featured at <a href="http://tinyurl.com/yd9kj8vb">this link</a>.
 </p>
 <h4>Update 10/12/2017</h4>
 <p>The second switching logic could have been further<br>
